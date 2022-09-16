@@ -39,3 +39,4 @@ Tips
 - DO NOT ALTER THE PROVIDED TESTS
 # amphibian-android-developer-exercise
 # amphibian-android-exercise
+# amphibian-android-exercise
